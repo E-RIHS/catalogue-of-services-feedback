@@ -66,16 +66,23 @@ While all categories are in scope, particular attention is expected for:
 
 Screenshots or examples are very helpful but not required.
 
-## Suggested Issue Types
+## Issue Labels
 
-When opening an issue, please indicate one of the following (as labels or in the title):
+To help organise feedback, issues are categorised using the following labels:
 
-- Bug: Catalogue functionality or behaviour
-- Metadata: Issues with service description fields or terminology
-- UX: Navigation, layout, or usability concerns
-- DIGILAB: Issues specific to digital services
-- Enhancement: Suggested improvements or new features
-- Documentation: Clarifications needed in guidance or descriptions
+- bug – Catalogue functionality not working as expected  
+- ux – Navigation, layout, or usability concerns  
+- catalogue-structure – Classification, grouping, or filtering logic  
+- service-description – How a service is presented or characterised  
+- terminology – Controlled terms, definitions, or naming issues  
+- digilab – Issues specific to digital/DIGILAB services  
+- documentation – Improvements or additions to documentation  
+- enhancement – Suggestions for new features or improvements  
+- wish-list – Longer-term ideas that may inform future development stages  
+- discussion – Open conceptual or governance questions about the catalogue  
+- question – Clarification requests about current catalogue behaviour  
+- duplicate – This issue or pull request already exists
+
 
 ## Governance and Moderation
 
