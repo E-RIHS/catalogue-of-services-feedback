@@ -1,8 +1,12 @@
+[<img height="64px" src="https://e-rihs.io/graphics/e-rihs-eric-logo_ai.png" alt="E-RIHS IP Logo">](https://www.e-rihs.eu/)<br/>
 # E-RIHS Catalogue Feedback Repository
 
 This repository provides a shared space to report issues, suggest improvements, and discuss the structure and behaviour of the E-RIHS Catalogue of Services:
 
-https://catalogue.e-rihs.eu
+[![View Catalogue](https://img.shields.io/badge/View-Catalogue-blue?style=for-the-badge)](https://catalogue.e-rihs.eu)
+[![Report Issue](https://img.shields.io/badge/Report-Issue-red?style=for-the-badge)](https://github.com/E-RIHS/catalogue-of-services-feedback/issues/new)
+
+This repository provides a shared space to report issues, suggest improvements, and discuss the structure and behaviour of the E-RIHS Catalogue of Services.
 
 ## Purpose
 
